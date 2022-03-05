@@ -10,3 +10,9 @@ Nome: {nome_do_colaborador}
 - git pull : Atualiza repositorio local.
 - git merge : Junta commits da branch informada com a atual.
 - git push: Envia alteração feita no repositório local para o repositório remoto. 
+
+
+
+# Git flow
+
+- é um modelo alternativo de ramificação do **Git** que consiste no uso de ramificações de recursos e várias ramificações primárias.
