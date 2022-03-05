@@ -10,4 +10,3 @@ Nome: {nome_do_colaborador}
 - git pull : Atualiza repositorio local.
 - git merge : Junta commits da branch informada com a atual.
 - git push: Envia alteração feita no repositório local para o repositório remoto. 
-- git log : Mostra historico de tudo que aconteceu no repostirio.
